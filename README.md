@@ -1,5 +1,6 @@
 <body>
     <h1>Archetyp Darknet Market Overview</h1>
+    <p><img src="https://github.com/Archetyp-Market/Archetyp/blob/main/73e4ef54-9-903a-b72c96archetyp.png" alt="Archetyp market dark web" title="Exploring the Archetyp Market on the Dark Web" /></p>
     <p>Archetyp Market, a darknet marketplace focused solely on drugs, has been operational for 5 years. Exclusively using Monero (XMR), it has gained a reputation for its uptime and security features. Launched in May 2020, the market currently hosts around 1,300 listings, with vendors from around the world, including the US, Canada, and Australia.</p>
 <a
     href="http://arche3pmohqc2fou7flomkw4gyk4tcgrre3qrttec5qpsrihyooxxdqd.onion">http://arche3pmohqc2fou7flomkw4gyk4tcgrre3qrttec5qpsrihyooxxdqd.onion</a></li>
